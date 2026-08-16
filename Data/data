@@ -1,0 +1,17 @@
+이미지 데이터셋: https://zenodo.org/records/4124309?utm_source=chatgpt.com&preview_file=test.zip
+
+오디오 데이터셋: https://www.kaggle.com/datasets/dejolilandry/asvpesdspeech-nonspeech-emotional-utterances
+
+학습용
+
+훌쩍이거나 우는소리,짧은 비명이나 패닉, 고통스러운 신음소리 : 1384
+
+일반 소리 : 1200
+
+---
+
+테스트용
+
+훌쩍이거나 우는소리,짧은 비명이나 패닉, 고통스러운 신음소리 : 300
+
+일반 소리 : 300
